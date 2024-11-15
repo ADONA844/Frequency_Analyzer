@@ -1,4 +1,4 @@
-Frequency Analyzer with Kalman Filter
+**Frequency Analyzer with Kalman Filter**
 This project implements a frequency analyzer for audio signals with noise reduction using the Kalman filter. The analyzer works in both time and frequency domains, providing a clear comparison between raw and filtered audio signals. The Kalman filter helps in reducing high-frequency noise present in the raw audio signal.
 
 Features
